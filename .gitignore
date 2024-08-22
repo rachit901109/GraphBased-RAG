@@ -1,0 +1,4 @@
+.env
+.ipynb_checkpoints/
+web_profile_json/
+csv/
